@@ -1,5 +1,5 @@
 # Fast_Modular_Exponentiation
-This algorithm speed up the modular exponentiation by using binary exponential.
+This algorithm speed up the modular exponentiation by using binary exponention.
 
 # Input and output examples:
 Input 1:
